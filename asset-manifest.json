@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/safe-schools/static/css/main.2a914819.chunk.css",
+    "main.js": "/safe-schools/static/js/main.92803ddb.chunk.js",
+    "main.js.map": "/safe-schools/static/js/main.92803ddb.chunk.js.map",
+    "runtime-main.js": "/safe-schools/static/js/runtime-main.0596b384.js",
+    "runtime-main.js.map": "/safe-schools/static/js/runtime-main.0596b384.js.map",
+    "static/js/2.944edd4c.chunk.js": "/safe-schools/static/js/2.944edd4c.chunk.js",
+    "static/js/2.944edd4c.chunk.js.map": "/safe-schools/static/js/2.944edd4c.chunk.js.map",
+    "index.html": "/safe-schools/index.html",
+    "precache-manifest.6139b179c6c6d17b3ac166e22aebd5a0.js": "/safe-schools/precache-manifest.6139b179c6c6d17b3ac166e22aebd5a0.js",
+    "service-worker.js": "/safe-schools/service-worker.js",
+    "static/css/main.2a914819.chunk.css.map": "/safe-schools/static/css/main.2a914819.chunk.css.map",
+    "static/media/pike-header.jpg": "/safe-schools/static/media/pike-header.b9b0470d.jpg",
+    "static/media/pike_main.png": "/safe-schools/static/media/pike_main.5f3fd664.png"
+  }
+}
