@@ -7,7 +7,7 @@ import Report2 from "./screens/student/Report2.jsx";
 import Completed from "./screens/student/Completed.jsx";
 export default function AppRouter() {
   return (
-    <Router>
+    <Router basename="/safe-schools">
       <Route path="/" exact component={Login} />
       <Route path="/report/1" component={Report} />
       <Route path="/report/2" component={Report2} />
